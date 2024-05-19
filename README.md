@@ -8,7 +8,7 @@ This portfolio website highlights my professional journey, skills, and projects.
 
 ## Live Demo
 
-You can view the live demo of the website (https://trang-dtk.github.io/trangdtk](https://trangdtk-vnu.github.io/trangdtk.github.io/).
+You can view the live demo of the website (https://trangdtk-vnu.github.io/trangdtk.github.io/).
 
 ## Technologies Used
 
