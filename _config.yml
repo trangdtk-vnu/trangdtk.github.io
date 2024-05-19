@@ -1,0 +1,25 @@
+# Site settings
+title: My Jekyll Site
+email: trangdtk.vnu@gmail.com
+url: "https://trangdtk.github.io"
+
+# Build settings
+theme: jekyll-theme-primer
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+# GitHub Pages
+github:
+  metadata: true
